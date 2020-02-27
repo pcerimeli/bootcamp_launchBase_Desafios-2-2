@@ -1,4 +1,4 @@
-# rocket Sobre o desafio
+# Rocket Sobre o desafio
 
 A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
 
